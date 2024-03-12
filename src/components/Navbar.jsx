@@ -35,7 +35,7 @@ const NavBar = () => {
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black ">
       <div className="flex items-center">
        {/* <img src={namay} alt="" className="ml-2 w-12 h-12 rounded-full" /> */}
-       <h1 className="text-white min-h-screen text-5xl ml-4 font-serif">Namay Gupta</h1>
+       <h1 className="text-white  text-5xl ml-4 font-serif">Namay Gupta</h1>
       </div>
 
       <ul className="hidden md:flex">
