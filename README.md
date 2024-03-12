@@ -8,7 +8,7 @@ Responsive Layout: Utilizes Tailwind CSS to ensure a responsive and visually ple
 Project Showcase: Highlights a selection of my noteworthy projects, providing details and links to explore further.
 About Me Section: Shares insights into my background, skills, and interests through a well-structured and engaging narrative.
 
-#Contribution
+# Contribution
 Feel free to fork, contribute, or provide feedback to enhance the portfolio project. Your input is valuable and can contribute to the continuous improvement of this personal showcase.
 
 
